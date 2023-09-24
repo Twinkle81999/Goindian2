@@ -1,0 +1,594 @@
+.top{
+    width: 100%;
+    height: 43px;
+    background-color: black;
+}
+.main-div{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 182px;
+    margin-right: 182px;
+   
+}
+.div1 a{
+    color: aliceblue;
+    text-decoration: none;
+    word-spacing: 30px;
+}
+.div2 a{
+    color: aliceblue;
+    text-decoration: none;
+    word-spacing: 30px;
+    margin-right: 10px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 114px;
+    background-color: rgb(1, 1, 58);
+    /* margin-left: 170px;
+    margin-right: 179px; */
+}
+.navblock{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+.navblock a{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    color: aliceblue;
+    padding-left: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+    word-spacing: 2px;
+}
+.nav-link{
+    
+    height: 42px;
+    width: 134px;
+    /* margin-left: 185px; */
+}
+.img1{
+    width: 63.75px;
+    height: 65px;
+    margin-bottom: 10px;
+    background: none;
+    
+}
+.img2{
+    width: 185.26px;
+    height: 36.58px;
+    margin-top: 15px;
+}
+.register{
+    width: 139px;
+    height: 40px;
+    position: relative;
+    left: 20px;
+    border-radius: 10px;
+    background-color: rgb(12, 93, 199);
+} 
+.body-img{
+    width: 100%;
+    height: 645px;
+}
+.contact-us{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    bottom: 30rem;
+    left: 12rem;
+    
+}
+.div1{
+    /* display: flex;
+    justify-content: space-between; */
+    position: relative;
+    right: 7rem;
+}
+.lets{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    /* bottom: 10rem; */
+  left: 12rem;
+  font-weight: bold;
+  font-size: 35px;
+}
+.lets2{
+    font-size: 20px;
+    position: relative;
+    left: 12rem;
+}
+#rectangle99{
+    width: 53px;
+    height: 52px;
+    position: relative;
+    left: 12rem;
+}
+#location{
+    width: 25px;
+    height: 32.14px;
+    position: relative;
+    left: 9.38rem;
+   
+}
+.addrss{
+    color: rgb(2, 2, 19);
+    position: relative;
+    left: 15.50rem;
+    bottom: 2rem;
+    font-size: 20px;
+    font-weight: bold;
+}
+.addressp{
+    position: relative;
+    left: 12rem;
+    bottom: 2rem;
+}
+/* #address2{
+    font-size: 15px;
+    position: relative;
+    left: 12rem;
+    bottom: 2rem;
+} */
+#phone-rec{
+    width: 53px;
+    height: 52px;
+    position: relative;
+    top: 52px;
+    right: 18.80rem;
+}
+.phone{
+    width: 25px;
+    height: 32.14px;
+    position: relative;
+    right: 21.60rem;
+    top: 52px;
+}
+.phone-w{
+    position: relative;
+    left: 15rem;
+    top: 5px;
+    color: rgb(2, 2, 19);
+    font-size: 20px;
+    font-weight: bold;
+}
+.number{
+    position: relative;
+    left: 12rem;
+    top: -4px;
+    color: rgb(2, 2, 19);
+}
+
+#email-rec{
+    width: 53px;
+    height: 52px;
+    position: relative;
+    bottom: -1rem;
+    left: 11.40rem;
+    
+}
+.email{
+    width: 25px;
+    height: 32.14px;
+    position: relative;
+    bottom: -1rem;
+    left: 8.60rem;
+   
+}
+.email-w{
+    position: relative;
+    left: 15rem;
+    bottom: 1rem;
+    color: rgb(2, 2, 19);
+    font-size: 20px;
+    font-weight: bold;
+}
+.gmail{
+    position: relative;
+    left: 12rem;
+    bottom: 2rem;
+    color: rgb(2, 2, 19);
+}
+ #rectangle-102{
+    width: 545px;
+    height: 598px;
+    position: relative;
+    left: 40rem;
+    bottom: 40rem;
+}
+.name{
+    position: relative;
+    left: 42rem;
+    bottom: 75rem;
+    color: rgb(4, 4, 26);
+    font-size: 20px;
+    font-weight: bold;
+
+}
+#rectangle43{
+    position: relative;
+    left: 42rem;
+    bottom: 76rem;
+    width: 479px;
+    height: 58px;
+}
+.mail{
+    position: relative;
+    left: 42rem;
+    bottom: 75rem;
+    color: rgb(4, 4, 26);
+    font-size: 20px;
+    font-weight: bold;
+}
+#rectangle432{
+    position: relative;
+    left: 42rem;
+    bottom: 76rem;
+    width: 479px;
+    height: 58px;
+}
+
+.massage{
+    position: relative;
+    left: 42rem;
+    bottom: 75rem;
+    color: rgb(4, 4, 26);
+    font-size: 20px;
+    font-weight: bold;
+}
+#rectangle3{
+    position: relative;
+    left: 42rem;
+    bottom: 76rem;
+    width: 479px;
+    height: 130px;
+}
+.submit{
+    position: relative;
+    left: 54rem;
+    bottom: 72rem;
+    color: rgb(4, 4, 26);
+    font-size: 20px;
+    font-weight: bold;
+    z-index: 1;
+    color: aliceblue;
+    font-size: 25px;
+} 
+ #rectangle4{
+    position: relative;
+    left: 42rem;
+    bottom: 76rem;
+    width: 479px;
+    height: 78px;
+}
+#stick{
+    position: relative;
+    left: 8rem;
+    bottom: 69rem;
+}
+.free{
+    position: relative;
+    left: 10rem;
+    bottom: 64rem;
+    font-weight: bold;
+    font-size: 35px;
+}
+.free2{
+    position: relative;
+    left: 10rem;
+    bottom: 64rem;
+  
+}
+#johnp1{
+    position: relative;
+    left: -21rem;
+    bottom: 55rem;
+    width: 132px;
+    height: 130px;
+}
+.john1{
+    position: relative;
+left: 19rem;
+    bottom: 62rem;
+    color: rgb(2, 2, 22);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#johnp2{
+    position: relative;
+    left: 10rem;
+    bottom: 55rem;
+    width: 132px;
+    height: 130px;
+}
+.john2{
+    position: relative;
+left: 19rem;
+    bottom: 62rem;
+    color: rgb(2, 2, 22);
+    font-size: 20px;
+    font-weight: bold;
+}
+#johnp3{
+    position: relative;
+    left: 10rem;
+    bottom: 55rem;
+    width: 132px;
+    height: 130px;
+}
+.john3{
+    position: relative;
+    left: 19rem;
+    bottom: 62rem;
+    color: rgb(2, 2, 22);
+    font-size: 20px;
+    font-weight: bold;
+}
+#rect90{
+    position: relative;
+    left: 10rem;
+    bottom: 55rem;
+    width: 262px;
+    height: 78px;
+}
+.contact{
+    position: relative;
+    left: 13rem;
+    bottom: 59rem;
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+}
+#rect104{
+    position: relative;
+    left: 43rem;
+    bottom: 112rem;
+    width: 520px;
+    height: 186px;
+}
+.p1{
+    position: relative;
+    left: 45rem;
+    bottom: 122rem;
+    color: rgb(163, 45, 163);
+    font-weight: bold;
+}
+.p2{
+    position: relative;
+    left: 45rem;
+    bottom: 122rem;
+    font-weight: bold;
+    color: aliceblue;
+}
+#rect105{
+    position: relative;
+    left: 43rem;
+    bottom: 119rem;
+    width: 520px;
+    height: 100px;
+}
+.p105{
+    position: relative;
+    left: 45rem;
+    bottom: 123rem;
+    font-weight: bold;
+    font-size: 20px;
+}
+#rect1051{
+    position: relative;
+    left: 43rem;
+    bottom: 119rem;
+    width: 520px;
+    height: 100px;
+}
+.p1051{
+    position: relative;
+    left: 45rem;
+    bottom: 123rem;
+    font-weight: bold;
+    font-size: 20px;
+}
+#rect1052{
+    position: relative;
+    left: 43rem;
+    bottom: 119rem;
+    width: 520px;
+    height: 100px;
+}
+.p1052{
+    position: relative;
+    left: 45rem;
+    bottom: 123rem;
+    font-weight: bold;
+    font-size: 20px;
+}
+#rect1053{
+    position: relative;
+    left: 43rem;
+    bottom: 119rem;
+    width: 520px;
+    height: 100px;
+}
+.p1053{
+    position: relative;
+    left: 45rem;
+    bottom: 123rem;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.footer-div{
+    background-color: rgb(3, 3, 49) ;
+    width: 100%;
+    height: 1224px;
+    position: relative;
+    bottom: 105rem;
+}
+ #foot-vec{
+    width: 60px;
+    height: 55.61px;
+    position: relative;
+    top: 3rem;
+    left: 5rem;
+}
+ #foot-goin{
+    position: relative;
+    top: 3.80rem;
+    left: 4.60rem;
+    width: 227.72px;
+    height: 44.96px;
+}
+.top-des{
+    text-decoration: none;
+    word-spacing: 8rem;
+    position: relative;
+}
+.top-des a{
+    text-decoration: none;
+    color: aliceblue;
+    position: relative;
+    left: 33rem;
+    font-size: 20px;
+    font-weight: bold;
+}
+.foot-lorem{
+   position: relative;
+   top: 3rem;
+   text-align: center;
+   right: 27rem;
+
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+}
+.list1 li{
+    display: inline-block;
+   position: relative;
+   left: 34rem;
+   bottom: 8rem;
+    color: aliceblue;
+}
+.list2 li{
+    display: inline-block;
+    position: relative;
+   left: 48rem;
+   bottom: 23.50rem;
+    color: aliceblue;
+}
+.list3 li{
+    display: inline-block;
+    position: relative;
+    left: 65rem;
+    bottom: 33.70rem;
+    color: aliceblue;
+}
+#master-card{
+    width: 207px;
+    height: 130px;
+    position: relative;
+    left: 9rem;
+    bottom: 155rem;
+}
+#visa{
+    width: 207px;
+    height: 130px;
+    position: relative;
+    left: 12rem;
+    bottom: 155rem;
+}
+#g-pay{
+    width: 207px;
+    height: 130px;
+    position: relative;
+    left: 15rem;
+    bottom: 155rem;
+}
+#paytm{
+    width: 207px;
+    height: 130px;
+    position: relative;
+    left: 17rem;
+    bottom: 155rem;
+}
+.dont{
+    position: relative;
+    text-align: center;
+    bottom: 150rem;
+    right: 15rem;
+    color: aliceblue;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ #email2{
+    position: relative;
+    left: 17rem;
+    bottom: 148rem;
+    width: 609px;
+    height: 67px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#Subcribe{
+    position: relative;
+    left: 17rem;
+    bottom: 148rem;
+    width: 178px;
+    height: 67px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: rgb(38, 120, 228) ;
+
+} 
+#stick1{
+    position: relative;
+    left: 8rem;
+    bottom: 145rem;
+    width: 1070.03px;
+    height: 2px;
+}
+#strock{
+    position: relative;
+    left: 6rem;
+    bottom: 140rem;
+    width: 46.17px;
+    height: 47.48px;
+    z-index: 1;
+}
+#elipse{
+    position: relative;
+    left: 2.40rem;
+    bottom: 140rem;
+    width: 57px;
+    height: 67px;
+}
+#black-rect{
+    position: relative;
+    bottom: 131rem;
+    width: 100%;
+    height: 79px;
+}
+.design{
+    position: relative;
+    text-align: center;
+    bottom: 135rem;
+    font-size: 35px;
+    color:aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}   
+
+@media only screen and (max-width:1200px) and (min-width:800px)
+{
+    .main-block{
+        display: flex;
+        flex-direction: column;
+    }
+    
+} 
+
